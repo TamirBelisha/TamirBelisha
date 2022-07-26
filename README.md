@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamir</h1>
-<h3 align="center">A passionate full-Stack web developer adept in the latest WEB technologies including React, Angular, Vue, Node.js etc. Experienced writing pixel-perfect designed single-page-applications, including server-side and data-base managemant. Love to solve problems, learn new technologies and think outside the box.</h3>
+<h3 align="center">A passionate full-Stack web developer adept in the latest WEB technologies including React, Angular, Vue, Node.js etc. Experienced writing pixel-perfect designed single-page-applications, including server-side and data-base managemant. Love to solve problems, learn new technologies and think outside the box. Graduate of the Coding Academy - An intensive coding bootcamp (640 hours) that qualifies Full Stack developers.</h3>
 
 - 🧑‍💼 I’m currently working on **Whatsapp clone**
 
