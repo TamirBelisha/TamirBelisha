@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tamir</h1>
 <h3 align="center">A passionate full-Stack web developer adept in the latest WEB technologies including React, Angular, Vue, Node.js etc. Experienced writing pixel-perfect designed single-page-applications, including server-side and data-base managemant. Love to solve problems, learn new technologies and think outside the box. Graduate of the Coding Academy - An intensive coding bootcamp (640 hours) that qualifies Full Stack developers.</h3>
 
-- 🧑‍💼 I’m currently working on **Whatsapp clone**
+- 🧑‍💼 I’m currently working on **Online store**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **React Native**
 
-- 🔭 I’m currently looking for my first opportunity to work as a **Frontend / fullstack developer**
+- 🔭 I’m currently looking to work as **Fullstack / Backend developer**
 
 - 👨‍💻 All of my projects are available at [https://tamirbelisha.github.io/Portfolio/#/](https://tamirbelisha.github.io/Portfolio/#/)
 
-- 💬 Ask me about **Vue, React, Javascript, SASS**
+- 💬 Ask me about **Vue, Javascript, Node.js, AWS**
 
 - 📫 How to reach me **Tamirbelisha@gmail.com**
 
