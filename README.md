@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Vue, Javascript, Node.js, AWS**
 
-- 📫 How to reach me **mailto:Tamirbelisha@gmail.com**
+- 📫 How to reach me <a href="mailto:Tamirbelisha@gmail.com" target="_blank" style="font-style:Bold">Tamirbelisha@gmail.com</a>
 
 - ⚡ Fun fact **I used to produce electronic music :).**
 
